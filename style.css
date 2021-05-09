@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+}
+.iconbg{
+    color:  #343a40;
+}
+.borderwdth{
+    border: 5px solid;
+    font: bolder;
+}
+.wrapped{
+    display: flex;
+    flex-wrap:wrap;
+}
+.twitterclr{
+   color: #1DA1F2;
+}
+.tdeco{
+    text-decoration: n;
+}
+.shadowed{
+    box-shadow: 0px 4px 8px rgba(38, 38, 38, 0.2);
+    top: -4px;
+    border: 1px solid #cccccc;
+    background-color: white;
+}
+.hov:hover {
+    
+    box-shadow: 0px 4px 8px rgba(38, 38, 38, 0.2);
+    top: -4px;
+   /* border: 1px solid #cccccc; 
+    background-color: white;
+    transition: all 0.2s ease-out; */
+    
+  }
+ 
