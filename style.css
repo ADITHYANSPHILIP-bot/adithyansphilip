@@ -1,9 +1,13 @@
-@media screen and (prefers-color-scheme: light) {
+
+@media screen and (prefers-color-scheme: dark) {
     body {
       background-color: white;
       color: black;
     }
   }
+  
+  
+
 .iconbg{
     color:  #343a40;
 }
