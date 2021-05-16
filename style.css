@@ -6,10 +6,22 @@
     }
   }
 
-  @media screen and (max-width: 798px) and (min-width: 590px){                 /* screen- moblie, lap,etc print- printers, speech- screen readers */
+  @media screen and (max-width: 1000px) and (min-width: 770px){                 /* screen- moblie, lap,etc print- printers, speech- screen readers */
     
-    
+    .pad_top{
+      padding-top: 90px;
+     
+    }
    }   
+
+   @media screen and (max-width:770px) {
+     .img_wdt{
+      max-width: 375px;
+       margin-left: auto ;
+      margin-right: auto;
+      justify-content: center;
+     }
+   }
 
   /* ====image center=== */
  /* .fa-center{
