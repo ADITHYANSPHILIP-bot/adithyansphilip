@@ -6,6 +6,11 @@
     }
   }
 
+  @media screen and (max-width: 798px) and (min-width: 590px){                 /* screen- moblie, lap,etc print- printers, speech- screen readers */
+    
+    
+   }   
+
   /* ====image center=== */
  /* .fa-center{
     display:block;
@@ -13,10 +18,24 @@
     margin-right: auto;
   }  */
  
-  .cont_width{
-    max-width: 450px;
-    padding: 30px 0px;
+ 
+  .cont_ser{
+    max-width: 370px;
+    min-width: 250px;
+    margin-left: auto ;
+    margin-right: auto;
   }
+  .cont_ser_market{
+    max-width: 370px;
+    
+    margin-left: auto ;
+    margin-right: auto;
+  }
+  @media screen and (max-width: 798px) and (min-width: 590px){                 /* screen- moblie, lap,etc print- printers, speech- screen readers */
+    .cont_ser_market{
+      max-width:260px ;
+    }
+   }  
 
 .iconbg{
     color:  #343a40;
