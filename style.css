@@ -49,6 +49,11 @@
     }
    }  
 
+   .skills{
+    margin-left: auto ;
+    margin-right: auto;
+   }
+
 .iconbg{
     color:  #343a40;
 }
